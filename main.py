@@ -149,5 +149,5 @@ async def on_ready():
 
 
 # Execution
-client.run('Nzc4ODQwMDgyMTM2MTcwNTU2.X7X1WQ.4jwVrUTy97UnQH7LcALo4b_bTpw')
+client.run('Acá viene le token del bot, por seguridad este nunca debe mostrarse')
 
