@@ -5,5 +5,5 @@ Un pequeño bot para discord.
 
 En el presente repositorio se adjunta el codigo fuente del bot "Ahri Bot" para discord, el cual tiene funcionalidades basicas como reacción a un comando, publicación de imagenes y busqueda de videos gracias a la API de Youtube.
 
-![image](https://user-images.githubusercontent.com/68876289/130303710-a33e4c46-e7a5-4987-a097-5ff6454cb81f.png)
+<p align="center"> <img src="https://user-images.githubusercontent.com/68876289/130303710-a33e4c46-e7a5-4987-a097-5ff6454cb81f.png"> </p>
 
